@@ -1,2 +1,27 @@
-# scientific-research-analysis-ukraine
-Analysis of expenditures on scientific research and development in Ukraine, 2016–2025
+# Аналіз витрат на наукові дослідження і розробки в Україні
+
+## Про проєкт
+
+Проєкт присвячений аналізу витрат на наукові дослідження і розробки
+в Україні за 2016–2025 роки.
+
+Для очищення та аналізу даних використано Python, Pandas і Matplotlib.
+Для інтерактивної візуалізації використано Tableau Public.
+
+## Основні етапи
+
+- очищення та підготовка даних;
+- описова статистика;
+- аналіз динаміки витрат;
+- аналіз розподілу та викидів;
+- аналіз за видами економічної діяльності;
+- створення Tableau Dashboard;
+- формування висновків та рекомендацій.
+
+## Повний звіт
+
+📄 [Переглянути повний звіт](report/scientific_research_report.docx)
+
+## Dashboard
+
+![Tableau Dashboard](images/tableau_dashboard.png)
