@@ -20,7 +20,7 @@
 
 ## Повний звіт
 
-📄 [Переглянути повний звіт](report/scientific_research_report.docx)
+📄 [Переглянути повний звіт]([report/scientific_research_report.docx](https://github.com/yuliyaklymchuk96-source/scientific-research-analysis-ukraine/blob/main/scientific_research_report.docx))
 
 ## Dashboard
 
