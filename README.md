@@ -24,4 +24,4 @@
 
 ## Dashboard
 
-![Tableau Dashboard](images/tableau_dashboard.png)
+![Tableau Dashboard](https://public.tableau.com/views/analiz_wytrat_na_naukowi_doslidzennia_i_rozrobky/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
